@@ -68,33 +68,33 @@ The <div> tag is used as a container for HTML elements - which is then styled wi
 
 The <div> tag is easily styled by using the class or id attribute.
 
-Any sort of content can be put inside the <div> tag! 
+Any sort of content can be put inside the *div* tag! 
  
  *Spans*
  
- The <span> tag is an inline container used to mark up a part of a text, or a part of a document.
+ The *span* tag is an inline container used to mark up a part of a text, or a part of a document.
 
-The <span> tag is easily styled by CSS or manipulated with JavaScript using the class or id attribute.
+The *span* tag is easily styled by CSS or manipulated with JavaScript using the class or id attribute.
 
-The <span> tag is much like the <div> element, but <div> is a block-level element and <span> is an inline element.
+The *span* tag is much like the *div* element, but *div* is a block-level element and *span* is an inline element.
  
  **Forms:**
  
- The <form> element is a container for different types of input elements, such as: text fields, checkboxes, radio buttons, submit buttons, etc.
+ The *form* element is a container for different types of input elements, such as: text fields, checkboxes, radio buttons, submit buttons, etc.
  
- The HTML <form> element can contain one or more of the following form elements:
+ The HTML *form* element can contain one or more of the following form elements:
 
-- <input>
-- <label>
-- <select>
-- <textarea>
-- <button>
-- <fieldset>
-- <legend>
-- <datalist>
-- <output>
-- <option>
-- <optgroup>
+- input
+- label
+- select
+- textarea
+- button
+- fieldset
+- legend
+- datalist
+- output
+- option
+- optgroup
  
  **Forms usage in my projects**
  
