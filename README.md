@@ -17,6 +17,9 @@ Practicing HTML and CSS.
 6. HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
 
 **Tagging:**
+
+
+
 ![html_tag](https://user-images.githubusercontent.com/26630930/100834915-f1b76980-3496-11eb-9fac-2e117f4a60dd.JPG)
 
 
