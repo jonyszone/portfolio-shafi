@@ -62,11 +62,11 @@ There are two type of list.
 
 *Divs*
 
-The <div> tag defines a division or a section in an HTML document.
+The *div* tag defines a division or a section in an HTML document.
 
-The <div> tag is used as a container for HTML elements - which is then styled with CSS or manipulated with JavaScript.
+The *div* tag is used as a container for HTML elements - which is then styled with CSS or manipulated with JavaScript.
 
-The <div> tag is easily styled by using the class or id attribute.
+The *div* tag is easily styled by using the class or id attribute.
 
 Any sort of content can be put inside the *div* tag! 
  
@@ -102,3 +102,13 @@ The *span* tag is much like the *div* element, but *div* is a block-level elemen
  
  ![forms](https://user-images.githubusercontent.com/26630930/100837611-1f061680-349b-11eb-9f84-cdd262ce8712.JPG)
 
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+
+## According to 
+[W3Schools](https://www.w3schools.com/default.asp)
