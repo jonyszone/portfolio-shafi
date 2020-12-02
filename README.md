@@ -1,3 +1,10 @@
 # Htlm_CSS_Practice
 Practicing HTML and CSS.
-Learnig web technology like HTML, CSS, Bootstrap, JavaScript and more ....
+# Covered Topics :
+
+- HTML Basics
+- Tagging
+- Lists
+- Divs and Spans
+- Attributes
+
