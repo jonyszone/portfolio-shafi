@@ -1,4 +1,4 @@
-# Htlm_CSS_Practice :blue_book:
+# :blue_book: Htlm_CSS_Practice 
 Practicing HTML and CSS.
 # :clipboard: Covered Topics :
 
