@@ -7,6 +7,9 @@ Practicing HTML and CSS.
 - Lists
 - Divs and Spans
 - Attributes
+- Tables
+- Forms
+
 
 **HTML Basics:**
 1. HTML stands for Hyper Text Markup Language
@@ -44,16 +47,58 @@ There are two type of list.
 
 <ins>Unordered list:</ins>
 
--One
--Two
+- One
+- Two
 
 
 
 
-![list](https://user-images.githubusercontent.com/26630930/100833605-8076b700-3494-11eb-8ee7-6d3b52282b67.JPG)
- file.
+![list](https://user-images.githubusercontent.com/26630930/100833605-8076b700-3494-11eb-8ee7-6d3b52282b67.JPG) 
+
+ 
+
+
+**Divs And Spans:**
+
+*Divs*
+
+The <div> tag defines a division or a section in an HTML document.
+
+The <div> tag is used as a container for HTML elements - which is then styled with CSS or manipulated with JavaScript.
+
+The <div> tag is easily styled by using the class or id attribute.
+
+Any sort of content can be put inside the <div> tag! 
+ 
+ *Spans*
+ 
+ The <span> tag is an inline container used to mark up a part of a text, or a part of a document.
+
+The <span> tag is easily styled by CSS or manipulated with JavaScript using the class or id attribute.
+
+The <span> tag is much like the <div> element, but <div> is a block-level element and <span> is an inline element.
+ 
+ **Forms:**
+ 
+ The <form> element is a container for different types of input elements, such as: text fields, checkboxes, radio buttons, submit buttons, etc.
+ 
+ The HTML <form> element can contain one or more of the following form elements:
+
+- <input>
+- <label>
+- <select>
+- <textarea>
+- <button>
+- <fieldset>
+- <legend>
+- <datalist>
+- <output>
+- <option>
+- <optgroup>
+ 
+ **Forms usage in my projects**
  
  
-
-
+ 
+ ![forms](https://user-images.githubusercontent.com/26630930/100837611-1f061680-349b-11eb-9f84-cdd262ce8712.JPG)
 
