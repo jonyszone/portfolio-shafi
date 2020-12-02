@@ -1,6 +1,6 @@
 # Htlm_CSS_Practice :blue_book:
 Practicing HTML and CSS.
-# Covered Topics :
+# :clipboard: Covered Topics :
 
 - HTML Basics
 - Tagging
